@@ -12,4 +12,4 @@ Employees with access to sensitive data want to randomly generate a strong passw
 
 The application can be viewed here: [Password Generator](https://editapesa.github.io/homework-3/)
 
-![screenshot](pw-generator-demo.png)
+![screenshot](./Assets/pw-generator-demo.png)
